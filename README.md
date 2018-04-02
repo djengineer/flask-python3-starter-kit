@@ -24,14 +24,14 @@ Date updated: 02 April 2018
 ## Venv:
 Python 3.6.2 as per the apt-get python3.6 below
 
-## Setting up the system environment
+## Setting up the system environment to run the virtual environment
 
 If you have python3.6 in your system already, you may skip this part.
 However, you may need to install python3.6-venv before you can use the venv that is included in this kit.
 
 For users with using linux os, use the bash script to install python3.6 and python3.6-venv
 
-### use the following command to activate the venv
+### Use the following command to activate the venv
 ```
 source venv/bin/activate
 ```

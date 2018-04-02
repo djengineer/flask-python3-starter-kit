@@ -37,8 +37,10 @@ source venv/bin/activate
 ```
 For windows or other OSes, make sure you have python3.6
 ## To run the flask server
-### In your terminal:
+### If you have a local terminal:
 ```
-python flask_app.python
+python flask_app.py
 ```
 If you want to run the flask-restful, it is best-practice to change the file name to flask_ap.py
+
+Different hosts have different way of starting the app. Please refer to their respective docs for more information.

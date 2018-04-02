@@ -1,6 +1,6 @@
 ## Flask starter kit 
 ### by © djengineer 2018
-
+Date updated: 02 April 2018
 
 ## pip packages include:
 - Pandas
@@ -9,10 +9,12 @@
 - flask-restful
 - flask-mongoengine
 
-## Others:
+## Others files:
 - Bootstrap 4.0.0-dist 
 - PROC file
 
+## Venv:
+Python 3.6.2 as per the apt-get python3.6 below
 
 ## For work with Linux
 

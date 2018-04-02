@@ -31,7 +31,7 @@ However, you may need to install python3.6-venv before you can use the venv that
 
 For users with using linux os, use the bash script to install python3.6 and python3.6-venv
 
-## use the following command to activate the venv
+### use the following command to activate the venv
 ```
 source venv/bin/activate
 ```

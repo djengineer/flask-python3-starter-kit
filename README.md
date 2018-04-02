@@ -1,4 +1,4 @@
-## Flask starter kit 
+## Flask-Python3-Starter-Kit 
 ### by © djengineer 2018
 Date updated: 02 April 2018
 

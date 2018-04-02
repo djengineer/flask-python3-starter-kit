@@ -2,6 +2,11 @@
 ### by © djengineer 2018
 Date updated: 02 April 2018
 
+## Purpose:
+This starter kit includes a starting bootstrap jumbotron template using bootstrap-4.0.0, python3.6.2 in the virtual environment. You can check the items installed in the requirements.txt.
+
+This is a basic template to jumpstart lightweight python webapps using the base Flask, or Flask-RESTful if you are creating an api backend.
+
 ## This doc includes:
 - pip packages
 - other files

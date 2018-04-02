@@ -20,6 +20,7 @@ This is a basic template to jumpstart lightweight python webapps using the base 
 - flask
 - flask-restful
 - flask-mongoengine
+- flask-mqtt
 
 ## Others files:
 - Bootstrap 4.0.0-dist 

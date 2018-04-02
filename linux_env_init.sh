@@ -5,7 +5,7 @@
 # Date: yyyymmdd - ee   (ee = times edited)
 # Date: 20180402 - 01
 # 
-# Purpose: run update scripts from ~/scripts/sysupdates
+# Purpose: run update scripts to initialize system environment to run venv from the flask-python3-starter-kit
 # 
 # Notes:
 # 

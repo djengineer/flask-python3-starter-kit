@@ -1,6 +1,6 @@
 ## Flask starter kit 
-###by djengineer
-© djengineer 2018
+### by © djengineer 2018
+
 
 ## pip packages include:
 - Pandas

@@ -14,9 +14,9 @@ This is a basic template to jumpstart lightweight python webapps using the base 
 - Setting up system environment in linux OSes
 - How to start the local server
 
-## How connecting to the URLS
+## How connect to the applications
 ### flask_app.py
-This is a normal flask application
+This is for the normal flask application.
 ```python
 http://localhost:8080
 http://localhost:8080/form
@@ -24,21 +24,21 @@ http://localhost:8080/page1
 
 ```
 ### flask_restful_app.py
-This is a normal flask application
+This is a RESTFUL flask API application
 ```python
 http://localhost:8081/example/url/hey%20there
 
 ```
-## Getting Started (Linux)
-Requires Python 3.9
+# Getting Started (Linux)
 
 ### Set up the environment
-Install python and python virtual environment packages
+Install python and python virtual environment packages. You may install the packages for the latest python instead.
 ```bash
 sudo apt install python3.9 python3.9-venv -y
 ```
-Create a new venv folder. This will create a new folder called "venv" with the virtual environment
+Create a new venv folder. This will create a new folder called "venv" with the virtual environment.
 ```bash
+# the terminal should be in the python project folder.
 python3.9 -m venv venv
 ```
 Have the terminal use the virtual environment
@@ -49,22 +49,23 @@ You should see a (venv) in the terminal.
 
 ### Starting the servers
 
-Using the new (venv) environment, go to the project folder.
+Using the new (venv) environment, go to the project folder. We will install the dependencies.
 ```Python
 # install the required packages if it is the first time starting up.
 pip install -r requirements.txt
-
+```
+To start the servers, use the following commands.
+```Python
 # to start flask
 python flask_app.py
 
 # to start flask
 python flask_restful_app.py
 
-
 ```
 
 ### Deploying
-When deploying a flask app, the main script should becalled flask_app.py. If you are running two servers, then split the two into separate project folders.
+When deploying a flask app, the main script should be called flask_app.py. If you are running two servers, then split the two into separate project folders.
 
 ## pip packages include:
 - Pandas
